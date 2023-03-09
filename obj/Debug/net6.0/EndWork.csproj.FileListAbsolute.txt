@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\EndWork\EndWork\bin\Debug\net6.0\EndWork.exe
+C:\Users\Ivan\Desktop\EndWork\EndWork\bin\Debug\net6.0\EndWork.deps.json
+C:\Users\Ivan\Desktop\EndWork\EndWork\bin\Debug\net6.0\EndWork.runtimeconfig.json
+C:\Users\Ivan\Desktop\EndWork\EndWork\bin\Debug\net6.0\EndWork.dll
+C:\Users\Ivan\Desktop\EndWork\EndWork\bin\Debug\net6.0\EndWork.pdb
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.dll
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\refint\EndWork.dll
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.pdb
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\EndWork.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\EndWork\EndWork\obj\Debug\net6.0\ref\EndWork.dll
